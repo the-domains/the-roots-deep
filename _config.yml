@@ -15,12 +15,12 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ca8b42c-7171-4a02-a589-2900fca045ed.png
 name: The Roots Deep
 navigation:
-  - name: SHOP
-    url: 'http://therootsdeep.tictail.com/'
-    type: external
   - name: ABOUT US
     id: a2714da8-46f7-4dc2-8e15-24c882f3ab87
     type: content
+  - name: SHOP
+    url: 'http://therootsdeep.tictail.com/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee947e7f-4e9f-468c-bda6-e90de5ec102b.jpg
 title: Positive Vibes
