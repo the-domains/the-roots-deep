@@ -18,6 +18,9 @@ navigation:
   - name: SHOP
     url: 'http://therootsdeep.tictail.com/'
     type: external
+  - name: ABOUT US
+    id: a2714da8-46f7-4dc2-8e15-24c882f3ab87
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee947e7f-4e9f-468c-bda6-e90de5ec102b.jpg
 title: Positive Vibes
